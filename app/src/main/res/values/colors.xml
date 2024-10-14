@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fade_white">#EECCC9C9</color>
+    <color name="primary_cyan">#0CBFDE</color>
+    <color name="primary_dark">#D7000000</color>
+
+
+<!-- CheckBox style for color -->
+    <style
+        name="colored_checkBox" parent="Theme.AppCompat.DayNight">
+        <!--Selcted Checkbox-->
+        <item name="colorAccent">@android:color/holo_blue_bright</item>
+        <!--Unselcted Checkbox-->
+        <item name="android:textColorSecondary">@android:color/darker_gray</item>
+
+
+    </style>
+
+
+</resources>
