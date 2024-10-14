@@ -10,7 +10,7 @@
 - 🛠️ **Modular Architecture**: Supports easy extension of music panels using `MultiSlidingUpPanel`.
 
 ## Screenshots
-Logo:
+App Logo:
 
 ![Audify Launcher Logo  (1)](https://github.com/user-attachments/assets/b0f246c1-ccf8-49fe-bc38-8560feaf50e3)
 
@@ -18,7 +18,7 @@ Here are some of the Screenshots of the UI:
 
 ![image](https://github.com/user-attachments/assets/36cd87d0-4a3f-4920-9c23-0ab9a9a3edf5)
 ![image](https://github.com/user-attachments/assets/0dba0d28-817e-4e35-8c30-413724af892c)
-![image](https://github.com/user-attachments/assets/ef397948-5080-4c42-be14-c399395db1c7)
+![image](https://github.com/user-attachments/assets/daac2e87-7130-472a-bd32-02baea088020)
 ![image](https://github.com/user-attachments/assets/c77385ad-9666-4e64-9731-b26f0fd13522)
 ![image](https://github.com/user-attachments/assets/70e2892f-1454-4113-9329-bab15deeb0f5)
 ![image](https://github.com/user-attachments/assets/6f8cb39e-41cf-46e9-bda2-fd8aebbd1632)
