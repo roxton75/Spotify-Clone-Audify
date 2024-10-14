@@ -83,7 +83,7 @@ If you have any questions, feel free to reach out:
 
 - Email Me on: [rudrakshramekar@gmail.com](mailto:your-email@example.com)
 
-Made with efforts by [rudrx75](@[roxton75](https://github.com/roxton75/))
+Made with efforts by [rudrx75](https://github.com/roxton75/)
 
 ### Instructions:
 
