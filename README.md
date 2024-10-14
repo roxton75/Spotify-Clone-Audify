@@ -19,6 +19,7 @@ Here are some of the Screenshots of the UI:
 ![image](https://github.com/user-attachments/assets/307657a8-7f62-46e8-ba5e-99ebb2d4abea)
 ![image](https://github.com/user-attachments/assets/ef397948-5080-4c42-be14-c399395db1c7)
 ![image](https://github.com/user-attachments/assets/c77385ad-9666-4e64-9731-b26f0fd13522)
+![image](https://github.com/user-attachments/assets/70e2892f-1454-4113-9329-bab15deeb0f5)
 ![image](https://github.com/user-attachments/assets/6f8cb39e-41cf-46e9-bda2-fd8aebbd1632)
 
 
