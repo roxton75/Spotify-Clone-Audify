@@ -57,6 +57,7 @@ Make sure to grant the necessary permissions when prompted.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+And it is an OpenSource Project so feel free to make changes and commit
 
 ## Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request.
@@ -70,8 +71,7 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 ## Contact
 If you have any questions, feel free to reach out:
 
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email Me on: [rudrakshramekar@gmail.com](mailto:your-email@example.com)
 
 Made with efforts by [rudrx75]
 
