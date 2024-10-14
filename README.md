@@ -11,13 +11,17 @@
 
 ## Screenshots
 Logo:
+
 ![Audify Launcher Logo  (1)](https://github.com/user-attachments/assets/b0f246c1-ccf8-49fe-bc38-8560feaf50e3)
 
 Here are some of the Screenshots of the UI:
-![Screenshot_20240324_012341](https://github.com/user-attachments/assets/5ce8b3d9-4fc5-4096-8151-26ca2836f83c)
-![Screenshot_20240324_012317](https://github.com/user-attachments/assets/ad9502a8-2cad-4c33-8ecd-9cda82c154e0)
-![Screenshot_20240324_010116](https://github.com/user-attachments/assets/0042ca90-9903-4082-91e6-3ec83b78b2c7)
-![Screenshot_20240324_005742](https://github.com/user-attachments/assets/c2282e4a-f5ef-4093-b537-0e1e41d38f39)
+
+!![image](https://github.com/user-attachments/assets/307657a8-7f62-46e8-ba5e-99ebb2d4abea)
+![image](https://github.com/user-attachments/assets/ef397948-5080-4c42-be14-c399395db1c7)
+![image](https://github.com/user-attachments/assets/c3bb0034-f4b5-49b8-9cfd-19f43c7765e4)
+![image](https://github.com/user-attachments/assets/c77385ad-9666-4e64-9731-b26f0fd13522)
+![image](https://github.com/user-attachments/assets/6f8cb39e-41cf-46e9-bda2-fd8aebbd1632)
+
 
 
 ## Technologies Used
