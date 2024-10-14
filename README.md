@@ -17,7 +17,7 @@ Logo:
 Here are some of the Screenshots of the UI:
 
 ![image](https://github.com/user-attachments/assets/36cd87d0-4a3f-4920-9c23-0ab9a9a3edf5)
-![image](https://github.com/user-attachments/assets/307657a8-7f62-46e8-ba5e-99ebb2d4abea)
+![image](https://github.com/user-attachments/assets/0dba0d28-817e-4e35-8c30-413724af892c)
 ![image](https://github.com/user-attachments/assets/ef397948-5080-4c42-be14-c399395db1c7)
 ![image](https://github.com/user-attachments/assets/c77385ad-9666-4e64-9731-b26f0fd13522)
 ![image](https://github.com/user-attachments/assets/70e2892f-1454-4113-9329-bab15deeb0f5)
