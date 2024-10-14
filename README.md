@@ -22,9 +22,6 @@ Here are some of the Screenshots of the UI:
 ![image](https://github.com/user-attachments/assets/70e2892f-1454-4113-9329-bab15deeb0f5)
 ![image](https://github.com/user-attachments/assets/88e3de9b-83b9-4e7c-a5d9-fed4b0197e43)
 
-
-
-
 ## Technologies Used
 - **Language**: Java, Kotlin
 - **Development Environment**: Android Studio
@@ -86,7 +83,7 @@ If you have any questions, feel free to reach out:
 
 - Email Me on: [rudrakshramekar@gmail.com](mailto:your-email@example.com)
 
-Made with efforts by [rudrx75](@roxton75)
+Made with efforts by [rudrx75](@[roxton75](https://github.com/roxton75/))
 
 ### Instructions:
 
