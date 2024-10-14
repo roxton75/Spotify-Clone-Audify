@@ -86,7 +86,7 @@ If you have any questions, feel free to reach out:
 
 - Email Me on: [rudrakshramekar@gmail.com](mailto:your-email@example.com)
 
-Made with efforts by [!@roxton75]
+Made with efforts by [@roxton75]
 
 ### Instructions:
 
