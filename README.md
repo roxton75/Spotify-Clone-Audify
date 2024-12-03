@@ -7,7 +7,6 @@
 - 🎶 **Trending Songs**: Explore trending and popular songs across various genres.
 - 📂 **Browse Local Music**: Access and play songs from the device's external storage.
 - 📱 **Modern UI**: User-friendly interface, with a custom navigation bar and media player.
-- 🛠️ **Modular Architecture**: Supports easy extension of music panels using `MultiSlidingUpPanel`.
 
 ## Screenshots
 App Logo:
@@ -80,9 +79,6 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 
 ## Contact
 If you have any questions, feel free to reach out:
-
-- Email Me on: [rudrakshramekar@gmail.com](mailto:your-email@example.com)
-
 Made with efforts by [rudrx75](https://github.com/roxton75/)
 
 ### Instructions:
